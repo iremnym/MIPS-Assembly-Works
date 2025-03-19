@@ -1,6 +1,6 @@
 .data
-result: .asciiz "Büyük olan sayı: "
-result2: .asciiz "Sayılar esittir."
+result: .asciiz "BÃ¼yÃ¼k olan sayÃ½: "
+result2: .asciiz "SayÃ½lar esittir."
 
 
 .text
